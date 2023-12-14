@@ -63,7 +63,7 @@ Please note that you should keep your App Password secure and not share it publi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/holiday-email-scheduler.git](https://github.com/wisdomsena36/ALX_Holiday_Challenge.git
+   git clone https://github.com/wisdomsena36/ALX_Holiday_Challenge.git
    ```
 
 2. Navigate to the project directory:
