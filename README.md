@@ -72,7 +72,7 @@ Please note that you should keep your App Password secure and not share it publi
    cd ALX_Holiday_Challenge
    ```
 
-3. Edit the festive_holiday_wish_automation.py file using your preferred text editor to update the sender_email and password within the code. 
+3. Edit the festive_holiday_wish_automation.py file using your preferred text editor to update the sender_email and password within the code: 
    ```
    festive_holiday_wish_automation.py
    ```
