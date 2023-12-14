@@ -44,7 +44,7 @@ To use Gmail's SMTP server for sending emails, you need to generate an App Passw
 
 After obtaining the App Password, update the `password` variable in the script with the copied value. Open the `holiday_email_scheduler.py` file and locate the following lines:
 
-```python
+```
 # Email configuration
 sender_email = "youremailaddress@gmail.com"  # Your Gmail address
 password = "your generated app password"  # Paste the generated App Password here
@@ -62,24 +62,24 @@ Please note that you should keep your App Password secure and not share it publi
 
 1. Clone the repository:
 
-   ```bash
+   ```
    git clone https://github.com/wisdomsena36/ALX_Holiday_Challenge.git
    ```
 
 2. Navigate to the project directory:
 
-   ```bash
+   ```
    cd ALX_Holiday_Challenge
    ```
 
 3. Edit the festive_holiday_wish_automation.py file using your preferred text editor to update the sender_email and password within the code. 
-```bash
-festive_holiday_wish_automation.py
-```
+   ```
+   festive_holiday_wish_automation.py
+   ```
 
 4. Run the script:
 
-   ```bash
+   ```
    python festive_holiday_wish_automation.py
    ```
 
