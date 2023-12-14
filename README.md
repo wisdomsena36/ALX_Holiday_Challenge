@@ -1,4 +1,4 @@
-# Holiday Email Scheduler
+# Holiday Wish Email Automation
 
 This Python script allows users to generate random holiday messages that spread holiday cheer, customize them, and schedule emails to be sent to specified recipients or loved one at a later date and time. The script uses Gmail's SMTP server for email delivery.
 
@@ -69,7 +69,7 @@ Please note that you should keep your App Password secure and not share it publi
 2. Navigate to the project directory:
 
    ```bash
-   cd festive_holiday_wish_automation
+   cd ALX_Holiday_Challenge
    ```
 
 3. Run the script:
