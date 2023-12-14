@@ -72,13 +72,18 @@ Please note that you should keep your App Password secure and not share it publi
    cd ALX_Holiday_Challenge
    ```
 
-3. Run the script:
+3. Edit the festive_holiday_wish_automation.py file using your preferred text editor to update the sender_email and password within the code. 
+```bash
+festive_holiday_wish_automation.py
+```
+
+4. Run the script:
 
    ```bash
    python festive_holiday_wish_automation.py
    ```
 
-4. Follow the prompts to generate a holiday messages that spread holiday cheer, customize the email, and schedule its delivery.
+5. Follow the prompts to generate a holiday messages that spread holiday cheer, customize the email, and schedule its delivery.
 
 
 ## Troubleshooting
