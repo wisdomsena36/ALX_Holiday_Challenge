@@ -1,4 +1,4 @@
-# Holiday Wish Email Automation
+# Holiday Wish Generator with Email Automation
 
 This Python script allows users to generate random holiday messages that spread holiday cheer, customize them, and schedule emails to be sent to specified recipients or loved one at a later date and time. The script uses Gmail's SMTP server for email delivery.
 
