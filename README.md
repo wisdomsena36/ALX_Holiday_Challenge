@@ -1,4 +1,3 @@
-```
 # Holiday Email Scheduler
 
 This Python script allows users to generate random holiday messages that spread holiday cheer, customize them, and schedule emails to be sent to specified recipients or loved one at a later date and time. The script uses Gmail's SMTP server for email delivery.
@@ -102,4 +101,3 @@ Contributions are welcome! If you encounter any issues, have suggestions, or wan
 - **Author 2:**
   - Name: Mabel Ablah Zigah
   - GitHub: [Mabel Zigah](https://github.com/mabrite)
-```
