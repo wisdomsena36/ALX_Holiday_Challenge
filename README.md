@@ -34,7 +34,7 @@ To use Gmail's SMTP server for sending emails, you need to generate an App Passw
    - In the "Select device" dropdown, choose "Other (Custom name)."
 
 4. **Custom Name:**
-   - Enter a custom name for the App Password (e.g., "HolidayEmailScheduler").
+   - Enter a custom name for the App Password (e.g., "FestiveHolidayWishAutomation.py").
    - Click "Generate."
 
 5. **Copy App Password:**
@@ -42,7 +42,7 @@ To use Gmail's SMTP server for sending emails, you need to generate an App Passw
 
 ## Integrating App Password into the Script
 
-After obtaining the App Password, update the `password` variable in the script with the copied value. Open the `holiday_email_scheduler.py` file and locate the following lines:
+After obtaining the App Password, update the `password` variable in the script with the copied value. Open the `festive_holiday_wish_automation.py` file and locate the following lines:
 
 ```
 # Email configuration
